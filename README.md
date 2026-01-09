@@ -1,49 +1,34 @@
-Desafio HTML - Módulo 01 (DIO.me)
+# Desafio HTML - Módulo 01 (DIO.me)
 
-Este projeto foi desenvolvido como parte da trilha de HTML do curso da DIO.me, no módulo Primeiros Passos com HTML.
-
+Este projeto foi desenvolvido como parte da trilha de HTML do curso da DIO.me, no módulo *Primeiros Passos com HTML*.  
 O objetivo do desafio foi construir uma página web simples utilizando as principais tags estudadas durante as aulas práticas, além de pesquisar e aplicar algumas tags adicionais.
 
-🎯 Objetivos do Desafio
+## 🎯 Objetivos do Desafio
+- [x] Criar um website utilizando estrutura básica em HTML
+- [x] Praticar o uso de elementos semânticos e de formatação
+- [x] Pesquisar e aplicar tags adicionais sugeridas pelo instrutor
 
-✔ Criar um website utilizando estrutura básica em HTML
-✔ Praticar o uso de elementos semânticos e de formatação
-✔ Pesquisar e aplicar tags adicionais sugeridas pelo instrutor
+## 🧩 Tags obrigatórias utilizadas
+- Títulos: `<h1>`
+- Texto e formatação: `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`
+- Listas: `<ol>`, `<ul>`, `<li>`
+- Links: `<a>`
+- Linha horizontal: `<hr>`
+- Subscrito e sobrescrito: `<sub>`, `<sup>`
+- Citações: `<blockquote>`
 
-🧩 Tags obrigatórias utilizadas
+## 🧠 Tags pesquisadas e aplicadas
+- `<font>` (nota: obsoleta em HTML5; utilizada aqui apenas para aprendizado)
+- `<del>`
+- `<abbr>`
 
-Títulos: <h1> 
+> Observação: como algumas dessas tags (por exemplo `<font>`) são obsoletas, elas podem não ter efeito em todos os navegadores. Mantive-as apenas para demonstrar a pesquisa e utilização.
 
-Texto e formatação: <p>, <mark>, <small>, <i>, <u>, <strong>
+## 📁 Resultado
+O arquivo final do desafio está neste repositório e contém todo o conteúdo solicitado pela atividade.
 
-Listas: <ol>, <ul>, <li>
+## 🚀 Próximos passos
+- Módulo II — Conceitos Básicos (continuação da trilha de HTML da DIO.me)
 
-Links: <a>
-
-Linha horizontal: <hr>
-
-Subscrito e sobrescrito: <sub>, <sup>
-
-Citações: <blockquote>
-
-🧠 Tags pesquisadas e aplicadas
-
-<font>
-
-<del>
-
-<abbr>
-
-Essas tags não foram ensinadas nas aulas, então foi necessário pesquisar sua utilização e aplicar no conteúdo da página.
-
-📁 Resultado
-
-O arquivo final do desafio está neste repositório, contendo todo o conteúdo solicitado.
-
-🚀 Próximos passos
-
-Após concluir este desafio, o próximo módulo será:
-
-Módulo II — Conceitos Básicos
-
-Continuando a evolução na trilha de HTML da DIO.me!
+## ✍️ Autor
+- mlkrinski
